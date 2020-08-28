@@ -14,4 +14,4 @@ Features: Country tags
 ToDo in future: ```Convert output from txt into MYSQL TABLES```
 
 ## Output example
-![Output example](https://github.com/Jacckii/-PHP-Simple-IP-Logger/blob/master/example.jpg?raw=true)
+![Output example](https://magyar-hacker-kozosseg.cf/github/ex.jpg)
